@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap');
+
+* {
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+body {
+    background-color:lightblue;
+    color: #fff;
+}
+
+.titulo-principal {
+  text-align: center;
+  color:hotpink;
+  border: solid;
+  background-color:rgb(247, 238, 157);
+  font-size: 50px;
+  text-transform: capitalize ;
+}
+
+.principal h2{
+  font-size: 26px ;
+}
+
+.principal p {
+  font-size: 20px ;
+  color:white;
+}
+
+.cac {
+  text-align: center;
+}
+
+.cac img{
+  width: 34%;
+  border-radius: 50px;
+  margin-top: 2%;
+  margin-left: 100px;
+}
+
+.cac h1 {
+  margin: auto;
+  width: 20%;
+  color:hotpink;
+  border: solid;
+  background-color:rgb(247, 238, 157);
+  font-size: 30px;
+  
+}
+
+.cac ul {
+  margin-top: 100px;
+  display: inline-block;
+  vertical-align: top;
+  width: 22%;
+  margin-right: 10%;
+}
+
+.cac li {
+  padding: 5px;
+  font-size: 28px;
+  color:hotpink;
+  font-style: italic;
+  text-align: left;
+}
+
+.sim {
+  text-decoration: none;
+  font-size: 80px;
+  color: purple;
+  text-align: center;
+}
